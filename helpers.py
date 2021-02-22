@@ -136,7 +136,8 @@ def plot_data(train_data, test_data, i, name, rmse, ax):
 
         # Plot legend/axis
         ax[1, i - 4].legend(loc='upper left', fontsize=15, frameon=False)
-
+def wakao():
+    return
 
 def transform_2D(series):
     result = []
