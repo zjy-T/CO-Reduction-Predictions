@@ -1,2 +1,2 @@
 # CO-Reduction-Predictions
-ML predictions of C-C coupling and carbon hydrogenation energies to predict CO reduction pathway
+ML predictions of CO dimerization and CO hydrogenation energies to predict CO reduction pathway
